@@ -5,7 +5,7 @@
 <img src="imgs/tripshare1'.PNG" width="500px" >
 <img src="imgs/trip2.PNG" width="500px" >
 <br/>
-<p align="center"> Login in to easily store and share you trips, access the info from anywhere. Post trip ideas, build itineraries, and decide on budgets with ease. Rate trips, share ideas, and get more from your vacations!</p>
+<p align="center"> Login in to easily store and share your trips, access the info from anywhere. Post trip ideas, build itineraries, and decide on budgets with ease. Rate trips, share ideas, and get more from your vacations!</p>
 <img src="imgs/trip3.PNG" width="500px" >
 <img src="imgs/trip4.PNG" width="500px" >
 <br/>
@@ -13,7 +13,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project was built in the span of 4 days with a group of fellow students, we approached it as a moch dev jam and really pushed our limits. We built to application in order to more easily plan group trips or reuniouns after graduation. The app is fully functional and easily implemented. 
+This project was built in the span of 4 days with a group of fellow students, we approached it as a mock dev jam and really pushed our limits. We built this application in order to more easily plan group trips or reunions after graduation. The app is fully functional and easily implemented.
 
 ### Prerequisites
 Must have Spring Tools installed
@@ -27,7 +27,7 @@ Must have Spring Tools installed
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Use this app to plan you next group trip!
+Use this app to plan your next group trip!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
